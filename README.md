@@ -34,7 +34,7 @@ After running the install.sh file, you have to run the main file which is J-take
 
 
 
-after running the main bash file/J-takeover.sh it asks you for the domain you want to test for sub-domain takeover vulnerabilt, just enter your domain and it will start to gather the sub-domains by running various tools and other resource materials ..
+after running the main bash file/J-takeover.sh it asks you for the domain you want to test for sub-domain takeover vulnerabilty, just enter your domain and it will start to gather the sub-domains by running various tools and other resource materials ..
 
 
 ![sub-domain](https://user-images.githubusercontent.com/97843059/172843783-89a30f25-e68e-4870-a01f-41fc5ca4dd93.png)
@@ -42,4 +42,5 @@ after running the main bash file/J-takeover.sh it asks you for the domain you wa
 
 Thanks a lot guys.
 Be safe , be healthy and keep learning 
-                                    -Jerry
+                                   
+                                   -Jerry
